@@ -7,10 +7,7 @@ package DataBase;
 
 import java.sql.*;
 
-/**
- *
- * @author IT PARK
- */
+
 public class ConnectionClass {
     
      Connection con = null;
